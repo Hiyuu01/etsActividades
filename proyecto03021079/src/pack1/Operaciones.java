@@ -22,6 +22,7 @@ public class Operaciones {
 	}
 	public int division(){
 		if(b == 0){
+			System.out.println("no hagas nada wey");
 			return 0;
 		}else{
 			return a/b;
